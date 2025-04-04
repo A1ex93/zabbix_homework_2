@@ -16,15 +16,6 @@
 
 ![alt text](https://github.com/A1ex93/zabbix_homework_2/blob/main/img/Zadanie_2.png)
 
-![alt text](https://github.com/A1ex93/zabbix_homework/blob/main/img/log_kali.png)
-
-![alt text](https://github.com/A1ex93/zabbix_homework/blob/main/img/log_ubuntu.png)
-
-![alt text](https://github.com/A1ex93/zabbix_homework/blob/main/img/ping_hosts.png)
-
-![alt text](https://github.com/A1ex93/zabbix_homework/blob/main/img/latest_data.png)
-
-![alt text](https://github.com/A1ex93/zabbix_homework/blob/main/img/admin_2_task.png)
 
 ### Задание 3
 
