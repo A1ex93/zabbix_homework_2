@@ -2,6 +2,8 @@
 
 ### Задание 1
 
+![alt text](https://github.com/A1ex93/zabbix_homework_2/blob/main/img/template.png)
+
 ![alt text](https://github.com/A1ex93/zabbix_homework_2/blob/main/img/Zadanie_1_template.png)
 
 ![alt text](https://github.com/A1ex93/zabbix_homework_2/blob/main/img/CPU_monitor_1_kali.png)
@@ -19,11 +21,14 @@
 
 ### Задание 3
 
-![alt text](https://github.com/A1ex93/zabbix_homework_2/blob/main/img/task_3.png)
+![alt text](https://github.com/A1ex93/zabbix_homework_2/blob/main/img/zadanie_3.png)
 
 ### Задание 4
 
-![alt text](https://github.com/A1ex93/zabbix_homework_2/blob/main/img/task_4.png)
+![alt text](https://github.com/A1ex93/zabbix_homework_2/blob/main/img/Zadanie_4.png)
+
+
+
 
 
 
